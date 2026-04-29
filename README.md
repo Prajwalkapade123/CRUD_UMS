@@ -1,5 +1,7 @@
 # User Management Application (React CRUD)
 
+**Live Demo:** [https://crud-nxfl6itb6-prajwalkapade123s-projects.vercel.app](https://crud-nxfl6itb6-prajwalkapade123s-projects.vercel.app)
+
 A modern, responsive User Management Application built with React, Vite, and Tailwind CSS. This application demonstrates Create, Read, Update, and Delete (CRUD) operations using the [DummyJSON API](https://dummyjson.com/docs/users).
 
 ## Features
